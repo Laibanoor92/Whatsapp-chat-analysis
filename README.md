@@ -1,6 +1,7 @@
-<<<<<<< HEAD
 # whatsapp-chat-analysis
 A streamlit app to analyze your whatsapp chats.
+
+A streamlit app to analyze your whatsapp chats
 
 This project analyzes WhatsApp chat exports to provide meaningful insights like message counts, media sharing, emoji usage, and more!
 
@@ -69,4 +70,3 @@ This project analyzes WhatsApp chat exports to provide meaningful insights like 
 
 ## License 📄
 This project is open source and free to use under the [MIT License](LICENSE).
->>>>>>> d342183e697146b01515f86aa6b664d0e16dc4cc
